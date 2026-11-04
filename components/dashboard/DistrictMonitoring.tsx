@@ -1,0 +1,1 @@
+export default function DistrictMonitoring() { return <section className="panel"><h2>Monitoring Kecamatan</h2><p>Data kecamatan akan ditampilkan setelah tabel wilayah pada Supabase dihubungkan.</p></section>; }
