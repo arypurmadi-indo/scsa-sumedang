@@ -1,0 +1,1 @@
+export default function FacilitatorMonitoring() { return <section className="panel"><h2>Monitoring Fasilitator</h2><p>Data fasilitator akan ditampilkan setelah sumber data Supabase dikonfirmasi.</p></section>; }

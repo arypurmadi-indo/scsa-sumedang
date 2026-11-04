@@ -1,0 +1,1 @@
+export default function Reports() { return <section className="panel"><h2>Laporan Monitoring</h2><p>Rekap laporan akan dihubungkan dengan data kecamatan, fasilitator, guru, dan 13 kursus.</p></section>; }
