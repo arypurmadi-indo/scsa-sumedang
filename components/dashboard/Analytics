@@ -1,0 +1,1 @@
+export default function Analytics() { return <section className="panel"><h2>Analitik Pembelajaran</h2><p>Grafik progres dan aktivitas akan diaktifkan setelah data Gradebook dan aktivitas LMS tersedia di Supabase.</p></section>; }
